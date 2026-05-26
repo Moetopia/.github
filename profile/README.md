@@ -92,6 +92,35 @@ Please read the repository README and architecture guidelines first.*
 
 ---
 
+## 许可证问题
+
+当前有一些基础设施仓库使用的是 [Source Available License](https://github.com/Moetopia/.github/blob/main/LICENSE.md) ([中文版本](https://github.com/Moetopia/.github/blob/main/LICENSE-zh.md))
+
+⚠️ **包含此许可证的项目为“源码可见”，但绝非“开源软件 (Open Source)”。** 它的权限范围如下：
+
+### ✅ 允许的行为 (What you CAN do):
+* **学习与研究**：自由查看、阅读、研究和运行项目的源代码。
+* **本地测试**：在你的个人电脑（Localhost）上跑起来进行功能评估。
+* **个人自托管（NAS/家庭局域网）**：允许部署在个人 NAS、家庭服务器或局域网内供自己或家人使用（类似 Immich 的自托管模式）。
+* **贡献代码**：欢迎 Fork 并提交 Pull Request 帮助改进项目。
+
+### ❌ 禁止的行为 (What you CANNOT do):
+* **禁止商业使用**：不能用于任何赚钱、收费或带有商业目的的场景。
+* **禁止公网部署/生产性使用**：**禁止**部署到任何公网服务器、云平台（如 Vercel, Netlify, AWS, 腾讯云等）向公众或外部人员提供线上服务。
+* **禁止再分发**：不能打包成你自己的产品、脚手架或模板重新发布。
+
+具体信息以许可证为准
+
+### 为什么会创建这个许可证
+
+说实话本人并不希望使用这种严格的许可证，但是为了防止某些人及公司，只能出此下策
+
+此许可证尽可能的保证了个人环境中的使用，并且强制限制了商业使用等问题，并且限制不能使用源代码/更改后的代码逃离许可证的限制
+
+还请谅解！
+
+---
+
 <div align="center">
 
 Made with ❤️ for SakuraKoi Society & misaka10843
