@@ -53,7 +53,7 @@
 
 | 仓库 | 描述 | 技术栈 |
 |------|------|--------|
-| [**Moetopia**](https://github.com/MoeTopiaOrg/Moetopia) | 主仓库：前后端 + Pixiv 采集节点 | FastAPI · Nuxt 3 · PostgreSQL · Qdrant · Meilisearch |
+| [**Moetopia**](https://github.com/Moetopia/) | 主仓库：前后端 + Pixiv 采集节点 | FastAPI · Nuxt 3 · PostgreSQL · Qdrant · Meilisearch |
 
 > 更多子项目持续建设中 / More sub-projects coming soon...
 
